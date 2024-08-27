@@ -3,7 +3,7 @@ import Info from "../parts/firstSection/info";
 
 export default function Mine() {
   return (
-    <div className="FirstSection">
+    <div className="section">
       <Header />
       <Info />
     </div>

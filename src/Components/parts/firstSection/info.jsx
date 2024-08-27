@@ -23,7 +23,7 @@ export default function Info() {
                         .pauseFor(10)
                         .deleteChars(3)
                         .typeString("end <span>დეველოპერი</span><br><br>")
-                        .changeDelay(25)
+                        .changeDelay(20)
                         .typeString('HTML, CSS, JavaScript, TypeScript, React.<br><br>')
                         .changeDelay(10)
                         .typeString('<p>ჩემს შესახებ ინფორმაციისთვის <a href="#about">დააკლიკეთ აქ!</a></p><br>')
